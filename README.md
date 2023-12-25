@@ -1,7 +1,6 @@
 <h2 align="center"> Hi I'm Sunglim👋 </h3>
 
-- 🌱  I’m currently learning MLEngineering , Data Engineering
-- 📫 How to reach me: lim789712@gmail.com
+- 🌱  I’m currently learning ML Engineering , Data Engineering
 
 ### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,3 +21,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lim4373&show_icons=true&theme=cobalt)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
