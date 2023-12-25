@@ -22,6 +22,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lim4373&show_icons=true&theme=cobalt)
 
-
-![image](https://github.com/lim4373/lim4373/assets/114973162/54a0fd91-2c63-4aae-912b-25d79b6b4ebc)
-
