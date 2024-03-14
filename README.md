@@ -2,7 +2,7 @@
 
 - 🌱  I’m currently learning ML Engineering ,MLops, Data Engineering
 
-### 📋 Languages
+#### 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### DataBase
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
