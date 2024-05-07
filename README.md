@@ -1,6 +1,6 @@
 <h2 align="center"> Hi I'm Sunglim👋 </h3>
 
-- 🌱  I’m currently learning ML Engineering ,MLops, Data Engineering
+- 🌱  I’m currently learning DL/ML Engineering ,MLops, Data Engineering
 ### 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### 🖥️ ML/DL
