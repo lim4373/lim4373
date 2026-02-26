@@ -18,5 +18,3 @@
 ### 🗄️ Servers
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lim4373&show_icons=true&theme=cobalt)
-
